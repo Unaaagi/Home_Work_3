@@ -1,0 +1,25 @@
+body {
+   background-color: rgb(152, 156, 160);
+}
+
+p {
+   font-size: 18px;
+}
+
+li.green {
+   color: rgb(69, 238, 69);
+}
+li.orange {
+   color: orange;
+}
+
+
+.Unit_color {
+   color: rgb(6, 128, 27);
+}
+.Unit_color2 {
+   color: rgb(104, 38, 167);
+}
+.Unit_color3 {
+   color: rgb(218, 76, 25);
+}
